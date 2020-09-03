@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there, I'm Cristian 👨🏻‍💻
+
+- 🔭 I’m currently working on industrial automation and robotics
+- 🌱 I’m currently learning a lot of things
+- 💡 You can check my projects at <https://palmacas.com> 
+- 📫 You can reach me at <cristian.palma@protonmail.com>
 
 <!--
 **palmacas/palmacas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
