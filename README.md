@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning a lot of things
 - 💡 You can check my projects at <https://palmacas.com> 
 - 📫 You can reach me at <cristian.palma@protonmail.com>
+- 🎥 You can watch my videos on [YouTube](https://www.youtube.com/cristianpalma13)
 
 <!--
 **palmacas/palmacas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
